@@ -1,3 +1,52 @@
 [
-  { "name": "Inter", "url": "https://github.com/Rairof/Theme-Fonts/raw/refs/heads/main/Inter/Inter-Bold.ttf" }
+    {
+        "name": "Roboto",
+        "description": "The default Android font. A neo-grotesque sans-serif typeface.",
+        "url": "https://raw.githubusercontent.com/google/fonts/main/apache/roboto/Roboto-Regular.ttf"
+    },
+    {
+        "name": "Lato",
+        "description": "A sanserif typeface family. The semi-rounded details of the letters give Lato a feeling of warmth.",
+        "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/lato/Lato-Regular.ttf"
+    },
+    {
+        "name": "Montserrat",
+        "description": "A geometric sans serif typeface. Inspired by the old posters and signs in the traditional Montserrat neighborhood of Buenos Aires.",
+        "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/montserrat/Montserrat-Regular.ttf"
+    },
+    {
+        "name": "Poppins",
+        "description": "A geometric sans serif typeface. Internationalist take on the genre.",
+        "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/poppins/Poppins-Regular.ttf"
+    },
+    {
+        "name": "Oswald",
+        "description": "A reworking of the classic style historically represented by the 'Alternate Gothic' sans serif typefaces.",
+        "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/oswald/Oswald%5Bwght%5D.ttf"
+    },
+    {
+        "name": "Merriweather",
+        "description": "A text face that is pleasant to read on screens.",
+        "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/merriweather/Merriweather-Regular.ttf"
+    },
+    {
+        "name": "Nunito",
+        "description": "A well balanced sans serif typeface superfamily.",
+        "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/nunito/Nunito%5Bwght%5D.ttf"
+    },
+    {
+        "name": "Playfair Display",
+        "description": "A transitional design. From the time of enlightenment in the late 18th century.",
+        "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/playfairdisplay/PlayfairDisplay%5Bwght%5D.ttf"
+    },
+    {
+        "name": "Rubik",
+        "description": "A sans serif font family with slightly rounded corners.",
+        "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/rubik/Rubik%5Bwght%5D.ttf"
+    },
+    {
+        "name": "Ubuntu",
+        "description": "The Ubuntu Font Family are a set of matching new libre/open fonts.",
+        "url": "https://raw.githubusercontent.com/google/fonts/main/ufl/ubuntu/Ubuntu-Regular.ttf"
+    }
 ]
