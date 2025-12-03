@@ -48,5 +48,10 @@
         "name": "Ubuntu",
         "description": "The Ubuntu Font Family are a set of matching new libre/open fonts.",
         "url": "https://raw.githubusercontent.com/google/fonts/main/ufl/ubuntu/Ubuntu-Regular.ttf"
+    },
+        {
+        "name": "Poppins-medium",
+        "description": ".",
+        "url": "https://github.com/Purple-EyeZ/Bunny-Fonts/blob/main/Poppins/Poppins-Medium.ttf?raw=1"
     }
 ]
